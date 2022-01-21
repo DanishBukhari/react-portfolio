@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-web/static/css/main.ad3080fd.chunk.css",
+    "main.js": "/react-portfolio-web/static/js/main.16405cc1.chunk.js",
+    "main.js.map": "/react-portfolio-web/static/js/main.16405cc1.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-web/static/js/runtime-main.06461280.js",
+    "runtime-main.js.map": "/react-portfolio-web/static/js/runtime-main.06461280.js.map",
+    "static/css/2.d34346ea.chunk.css": "/react-portfolio-web/static/css/2.d34346ea.chunk.css",
+    "static/js/2.157925e6.chunk.js": "/react-portfolio-web/static/js/2.157925e6.chunk.js",
+    "static/js/2.157925e6.chunk.js.map": "/react-portfolio-web/static/js/2.157925e6.chunk.js.map",
+    "index.html": "/react-portfolio-web/index.html",
+    "precache-manifest.468cde4fef724a14219c41ea47535123.js": "/react-portfolio-web/precache-manifest.468cde4fef724a14219c41ea47535123.js",
+    "service-worker.js": "/react-portfolio-web/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/react-portfolio-web/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.ad3080fd.chunk.css.map": "/react-portfolio-web/static/css/main.ad3080fd.chunk.css.map",
+    "static/js/2.157925e6.chunk.js.LICENSE.txt": "/react-portfolio-web/static/js/2.157925e6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-portfolio-web/static/media/Poppins-Thin.25cd0f68.ttf",
+    "static/media/education.svg": "/react-portfolio-web/static/media/education.f7b5182c.svg",
+    "static/media/im4.jpg": "/react-portfolio-web/static/media/im4.f38cb5be.jpg",
+    "static/media/interests.svg": "/react-portfolio-web/static/media/interests.f0d8135d.svg",
+    "static/media/AboutMe.css": "/react-portfolio-web/static/media/me.ff7ad67d.jpg",
+    "static/media/Profile.css": "/react-portfolio-web/static/media/profilephoto.55bce9b5.jpg",
+    "static/media/programming-skills.svg": "/react-portfolio-web/static/media/programming-skills.4f981aec.svg",
+    "static/media/projects.svg": "/react-portfolio-web/static/media/projects.aa1f39c4.svg",
+    "static/media/shape-bg.png": "/react-portfolio-web/static/media/shape-bg.2eb3f531.png",
+    "static/media/work-history.svg": "/react-portfolio-web/static/media/work-history.d9d994da.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06461280.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.157925e6.chunk.js",
+    "static/css/main.ad3080fd.chunk.css",
+    "static/js/main.16405cc1.chunk.js"
+  ]
+}
